@@ -1,7 +1,9 @@
 There's something wrong with the Foo. Probably a frazzled garm. Garms must be configurable.
-	- Fix foo
+	x Fix foo
 	x make the foo testable
 	x test null parameters on foo init
 	x handle fooException
-	- make the foo-connector configurable
-
+	x make the foo-connector configurable
+	x update configuration-files with foo-configuration
+	x document foo-configuration for dev/test/production
+	
