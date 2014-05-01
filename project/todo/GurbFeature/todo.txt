@@ -1,5 +1,5 @@
 The Gurb feature solves all our monetary problems
-	- Find underpants
-	- Take underpants
+	x Find underpants
+	x Take underpants
 	- ???
 	- Profit
