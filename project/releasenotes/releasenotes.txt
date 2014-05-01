@@ -1,0 +1,9 @@
+{ProjectName} Release version {VersionNumber} - {ReleaseName}
+
+This is the release-note for the release that's being made. 
+
+It will be followed by the release-notes for all the features and bugfixes contained in it.
+
+The ordering is based on the ordering in the file-system
+*******************************************************************************************
+
